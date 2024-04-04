@@ -11,7 +11,7 @@
 
 #############
 # Part 1: Introductory Python (to be done without defining functions or classes)
-print("X")
+print("X and Y")
 # Question 1.1: Using a for loop, write code that takes in any list of objects, then prints out:
 # "The value at position __ is __" for every element in the loop, where the first blank is the
 # index location and the second blank the object at that index location.
